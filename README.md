@@ -6,10 +6,12 @@ Script to parse the transaction of dextop version 2.
 Assuming you have configured your Gopath and setup your Go environment.
 
 Option 1: Without Gopkg
+
 $go get github.com/ethereum/go-ethereum 
 $go build
 
 Option 2: With Gopkg
+
 $dep init
 $dep ensure
 $go build
