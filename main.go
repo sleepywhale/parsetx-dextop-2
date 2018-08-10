@@ -45,6 +45,8 @@ var (
 		132: &TokenInfo{"MAN", 1e18},
 		133: &TokenInfo{"HYDRO", 1e18},
 		134: &TokenInfo{"DAG", 1e8},
+		135: &TokenInfo{"NPER", 1e18},
+		136: &TokenInfo{"REM", 1e4},
 	}
 )
 
